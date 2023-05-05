@@ -1,31 +1,56 @@
+.p1 {
+    background-color: red;
 
-.p1 {background-color: red;
-width: 100px;
-height: 100px;}
-.p2 {background-color: rgb(23, 110, 187);
-width: 100px;
-height: 100px;}
-.p3 {background-color: red;
-width: 100px;
-height: 100px;}
-.p4 {background-color: red;
-width: 100px;
-height: 100px;}
-.p5 {background-color: red; opacity: 50%;
-width: 100px;
-height: 100px;}
-.p6 {background-color: rgb(23, 110, 187);
-width: 100px;
-height: 100px;}
-.p7 {background-color: red;
-width: 100px;
-height: 100px;}
-.p8 {background-color: red; opacity: 50%;
-width: 100px;
-height: 100px;}
-.p9 {background-color: red;
-width: 100px;
-height: 100px;}
-.p10 {background-color: rgb(23, 110, 187);
-width: 100px;
-height: 100px;}
+}
+
+.p2 {
+    background-color: rgb(23, 110, 187);
+
+}
+
+.p3 {
+    background-color: red;
+
+}
+
+.p4 {
+    background-color: red;
+
+}
+
+.p5 {
+    background-color: red;
+    opacity: 50%;
+
+}
+
+.p6 {
+    background-color: rgb(23, 110, 187);
+
+}
+
+.p7 {
+    background-color: red;
+
+}
+
+.p8 {
+    background-color: red;
+    opacity: 50%;
+
+}
+
+.p9 {
+    background-color: red;
+
+}
+
+.p10 {
+    background-color: rgb(23, 110, 187);
+
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
