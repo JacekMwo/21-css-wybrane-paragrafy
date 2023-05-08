@@ -1,56 +1,13 @@
-.p1 {
-    background-color: red;
-
-}
-
-.p2 {
-    background-color: rgb(23, 110, 187);
-
-}
-
-.p3 {
-    background-color: red;
-
-}
-
-.p4 {
-    background-color: red;
-
-}
-
-.p5 {
-    background-color: red;
-    opacity: 50%;
-
-}
-
-.p6 {
-    background-color: rgb(23, 110, 187);
-
-}
-
-.p7 {
-    background-color: red;
-
-}
-
-.p8 {
-    background-color: red;
-    opacity: 50%;
-
-}
-
-.p9 {
-    background-color: red;
-
-}
-
-.p10 {
-    background-color: rgb(23, 110, 187);
-
-}
-
 .box {
     width: 100px;
     height: 100px;
+    background-color: red;
+}
+
+.blue {
+    background-color: rgb(23, 110, 187);
+}
+
+.opacity {
+    opacity: 0.5;
 }
